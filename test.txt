@@ -1,2 +1,1 @@
-city none
-bangalore
+city: tenkasi
